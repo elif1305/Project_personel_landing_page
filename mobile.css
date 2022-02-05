@@ -1,0 +1,18 @@
+#navbar{
+    flex-direction: column;  /* telefonda acildiginda home about kismi alt alta gelsin diye */
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+
+#myprojects .items{
+    flex-direction: column;
+
+}
+
+#myprojects .items .item{
+    width: 100%;
+}
+
+.experiences .experience{
+    flex-direction: column;
+}
